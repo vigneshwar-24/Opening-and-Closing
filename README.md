@@ -59,5 +59,7 @@ plt.imshow(image1)
 <img width="280" alt="112" src="https://user-images.githubusercontent.com/77089276/171875840-e71096e6-ed5b-4878-ad13-a2a5b15fbd05.PNG">
 ### Display the result of Closing
 <img width="275" alt="113" src="https://user-images.githubusercontent.com/77089276/171875873-63d39550-35cb-4bc0-bdba-0dcdb2372e53.PNG">
-## Result
+
+## Result:
+
 Thus the Opening and Closing operation is used in the image using python and OpenCV.
