@@ -1,4 +1,5 @@
-# Opening-and-Closing
+# Exp no: 11
+# Implementation of Opening-and-Closing
 
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
